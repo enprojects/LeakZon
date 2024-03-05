@@ -1,0 +1,149 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ilteleyno\\Desktop\\AlgoPracticeBackground\\JobInterviewTest\\Exercise Leakzon\\src\\Leakzon.WebApi\\Leakzon.WebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ilteleyno\\Desktop\\AlgoPracticeBackground\\JobInterviewTest\\Exercise Leakzon\\src\\Leakzon.WebApi\\Leakzon.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ilteleyno\\Desktop\\AlgoPracticeBackground\\JobInterviewTest\\Exercise Leakzon\\src\\Leakzon.WebApi\\Leakzon.WebApi.csproj",
+        "projectName": "Leakzon.WebApi",
+        "projectPath": "C:\\Users\\ilteleyno\\Desktop\\AlgoPracticeBackground\\JobInterviewTest\\Exercise Leakzon\\src\\Leakzon.WebApi\\Leakzon.WebApi.csproj",
+        "packagesPath": "C:\\Users\\ilteleyno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ilteleyno\\Desktop\\AlgoPracticeBackground\\JobInterviewTest\\Exercise Leakzon\\src\\Leakzon.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ilteleyno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://iltela03:8080/tfs/DefaultCollection/_packaging/Backend-Nugets-Hub-feed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\ilteleyno\\Desktop\\AlgoPracticeBackground\\JobInterviewTest\\Exercise Leakzon\\src\\Leakzone.Backend\\Leakzone.Backend.csproj": {
+                "projectPath": "C:\\Users\\ilteleyno\\Desktop\\AlgoPracticeBackground\\JobInterviewTest\\Exercise Leakzon\\src\\Leakzone.Backend\\Leakzone.Backend.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.19.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ilteleyno\\Desktop\\AlgoPracticeBackground\\JobInterviewTest\\Exercise Leakzon\\src\\Leakzone.Backend\\Leakzone.Backend.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ilteleyno\\Desktop\\AlgoPracticeBackground\\JobInterviewTest\\Exercise Leakzon\\src\\Leakzone.Backend\\Leakzone.Backend.csproj",
+        "projectName": "Leakzone.Backend",
+        "projectPath": "C:\\Users\\ilteleyno\\Desktop\\AlgoPracticeBackground\\JobInterviewTest\\Exercise Leakzon\\src\\Leakzone.Backend\\Leakzone.Backend.csproj",
+        "packagesPath": "C:\\Users\\ilteleyno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ilteleyno\\Desktop\\AlgoPracticeBackground\\JobInterviewTest\\Exercise Leakzon\\src\\Leakzone.Backend\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ilteleyno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://iltela03:8080/tfs/DefaultCollection/_packaging/Backend-Nugets-Hub-feed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.24.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

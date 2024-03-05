@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ybQ2XulCYHdL3bgWtcs8M8ZiFm/GilA6pXB3nnPKmW0=",
+  "Source": "Leakzon.WebApi",
+  "BasePath": "_content/Leakzon.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

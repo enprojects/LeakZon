@@ -1,0 +1,12 @@
+C:\Users\ilteleyno\Desktop\AlgoPracticeBackground\JobInterviewTest\Exercise Leakzon\src\Leakzone.Backend\obj\Debug\net6.0\Leakzone.Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilteleyno\Desktop\AlgoPracticeBackground\JobInterviewTest\Exercise Leakzon\src\Leakzone.Backend\obj\Debug\net6.0\Leakzone.Backend.AssemblyInfoInputs.cache
+C:\Users\ilteleyno\Desktop\AlgoPracticeBackground\JobInterviewTest\Exercise Leakzon\src\Leakzone.Backend\obj\Debug\net6.0\Leakzone.Backend.AssemblyInfo.cs
+C:\Users\ilteleyno\Desktop\AlgoPracticeBackground\JobInterviewTest\Exercise Leakzon\src\Leakzone.Backend\obj\Debug\net6.0\Leakzone.Backend.csproj.CoreCompileInputs.cache
+C:\Users\ilteleyno\Desktop\AlgoPracticeBackground\JobInterviewTest\Exercise Leakzon\src\Leakzone.Backend\bin\Debug\net6.0\Leakzone.Backend.deps.json
+C:\Users\ilteleyno\Desktop\AlgoPracticeBackground\JobInterviewTest\Exercise Leakzon\src\Leakzone.Backend\bin\Debug\net6.0\Leakzone.Backend.dll
+C:\Users\ilteleyno\Desktop\AlgoPracticeBackground\JobInterviewTest\Exercise Leakzon\src\Leakzone.Backend\bin\Debug\net6.0\Leakzone.Backend.pdb
+C:\Users\ilteleyno\Desktop\AlgoPracticeBackground\JobInterviewTest\Exercise Leakzon\src\Leakzone.Backend\obj\Debug\net6.0\Leakzone.Backend.dll
+C:\Users\ilteleyno\Desktop\AlgoPracticeBackground\JobInterviewTest\Exercise Leakzon\src\Leakzone.Backend\obj\Debug\net6.0\refint\Leakzone.Backend.dll
+C:\Users\ilteleyno\Desktop\AlgoPracticeBackground\JobInterviewTest\Exercise Leakzon\src\Leakzone.Backend\obj\Debug\net6.0\Leakzone.Backend.pdb
+C:\Users\ilteleyno\Desktop\AlgoPracticeBackground\JobInterviewTest\Exercise Leakzon\src\Leakzone.Backend\obj\Debug\net6.0\ref\Leakzone.Backend.dll
+C:\Users\ilteleyno\Desktop\AlgoPracticeBackground\JobInterviewTest\Exercise Leakzon\src\Leakzone.Backend\obj\Debug\net6.0\Leakzone.Backend.csproj.AssemblyReference.cache
